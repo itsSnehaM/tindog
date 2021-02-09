@@ -1,4 +1,4 @@
 # tindog
 
-love app for dogs
+website on online dating plans for dogs
 based on HTML, CSS and Bootstrap
